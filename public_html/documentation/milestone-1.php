@@ -42,8 +42,8 @@
 		</p>
 		<p><strong>Attitudes and behaviors:</strong>
 			Spends a lot of time browsing the web and keeping up to date on current events.  Especially as they relate to the tech industry.  Heavily involved with social media and believes someone's
-			online presences is the most important thing when looking to hire someone.  A good resume exhibits good organizational skills but he rarely spends much time looking over them.  He feels
-			interacting with potential hires is the best way to get a feel for them.  He wants to make sure personality matches online presence and style.
+			online presences is the most important thing when looking to hire someone.  A good resume exhibits organizational skills but he rarely spends much time looking over them.  He feels
+			interacting with potential hires is the next best way to get a feel for them.  He wants to make sure personality matches online presence and style.
 		</p>
 		<p><strong>Frustrations and Needs:</strong>
 			Bill is looking for someone who can grow with the company.  He is not looking for a senior level developer, but someone who has 1-2 years of real working experience as well as some
