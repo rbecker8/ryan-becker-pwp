@@ -9,7 +9,7 @@
 	</header>
 	<body>
 		<h2>Purpose, Audience & Goal:</h2>
-		<p><strong>Purpose</strong>
+		<p><strong>Purpose:</strong>
 			This project will be a professional portfolio website with a focus on front-end web development concepts such as UX/UI.
 		</p>
 		<p>
@@ -32,10 +32,16 @@
 			38
 		</p>
 		<p>
-			<strong>Profession</strong>
-			: Hiring manager at SolarCell, a startup that is looking to hire a full-time, in house Front-End Web Developer.  They have received funding from a few major corporations and are ready to
-			expand their website offerings to be better penetrate the tech and satellite market.  Their product line consists of deep space solar cells that power spacecraft and satellites.  They also offer wing
+			<strong>Profession:</strong>
+			Hiring manager at SolarCell, a startup that is looking to hire a full-time, in house Front-End Web Developer.  They have received funding from a few major corporations and are ready to
+			expand their website offerings to better penetrate the tech and satellite market.  Their product line consists of deep space solar cells that power spacecraft and satellites.  They also offer wing
 			mounted solar cell systems for use in the ever expanding drone sector.
+		</p>
+		<p><strong>Technology:</strong>
+			Apple Guru.  Works on an iMac Pro connected to a 27" LG UltraFine 5k display while in the office, a MacBook Pro while at home and keeps up to date on the go using an iPhone X.
+		</p>
+		<p>Attitudes and behaviors:
+		Spends a lot of time browsing the web and keeping up to date on
 		</p>
 	</body>
 </html>
