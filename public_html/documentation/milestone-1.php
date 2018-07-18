@@ -8,8 +8,8 @@
 		<h1>PWP Milestone 1</h1>
 	</header>
 	<body>
-		<p><em>Purpose:</em> This project will be a professional portfolio website with a focus on front-end web development concepts such as UX/UI</p>
-		<p><em>Audience:</em> This site is designed with a professional audience in mind.  Targeting individuals in the web development and I.T. community nationwide.<br>
+		<p><strong>Purpose:</strong> This project will be a professional portfolio website with a focus on front-end web development concepts such as UX/UI</p>
+		<p><strong>Audience:</strong> This site is designed with a professional audience in mind.  Targeting individuals in the web development and I.T. community nationwide.<br>
 		Target audience to include: startup founders, hiring managers, recruiters, and peers.</p>
 
 	</body>
