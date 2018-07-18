@@ -8,7 +8,7 @@
 		<h1>PWP Milestone 1</h1>
 	</header>
 	<body>
-		<h2>Purpose, Audience & Goal:</h2>
+		<h2>Purpose, Audience &amp; Goal:</h2>
 		<p><strong>Purpose:</strong>
 			This project will be a professional portfolio website with a focus on front-end web development concepts such as UX/UI.
 		</p>
