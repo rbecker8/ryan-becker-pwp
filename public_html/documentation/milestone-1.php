@@ -59,8 +59,6 @@
 		</p>
 		<p><strong>User Story:</strong>
 			As a user, I need to quickly assess whether this person presents content in a concise and appealing way as well as how involved they are in our local tech community.
-
-
 		</p>
 	</body>
 </html>
