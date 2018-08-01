@@ -25,8 +25,8 @@
 		</p>
 		<h2>Wireframes</h2>
 		<p>Mobile Layout</p>
-		<img src="../images/pwpdesktopwireframe.png">
-		<p>Full Screen Layout</p>
+		<img src="../images/pwpmobilewireframe.png">
+		<p>Desktop Layout</p>
 		<img src="../images/pwpdesktopwireframe.png">
 	</body>
 </html>
