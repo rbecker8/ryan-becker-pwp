@@ -2,10 +2,26 @@ body {
 	background-color: #070301;
 }
 
-
 .bg-dark {
 	background-color: #070301!important;
 }
+
+button {
+	background-color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+label {
+	display: block;
+	margin: 15px 0 5px 0;
+}
+
+input, textarea {
+	width: 30%;
+	padding: 8px;
+}
+
 section {
 	padding-top: 25px;
 	background-color: #FFFFFF;
