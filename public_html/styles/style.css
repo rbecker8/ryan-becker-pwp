@@ -1,6 +1,14 @@
+body {
+	background-color: #070301;
+}
+
+
+.bg-dark {
+	background-color: #070301!important;
+}
 section {
+	padding-top: 25px;
 	background-color: #FFFFFF;
-	padding: 20px;
 }
 
 footer {
