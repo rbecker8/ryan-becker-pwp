@@ -13,12 +13,13 @@ button {
 }
 
 label {
-	display: block;
+	display: inline;
 	margin: 15px 0 5px 0;
+	align-content: center;
 }
 
 input, textarea {
-	width: 40%;
+	width: 90%;
 	padding: 8px;
 }
 
