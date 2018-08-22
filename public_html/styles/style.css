@@ -13,6 +13,7 @@ button {
 }
 
 label {
+	font-weight: bold;
 	display: block;
 	margin: 15px 0 5px 0;
 	align-content: center;
