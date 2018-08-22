@@ -13,7 +13,7 @@ button {
 }
 
 label {
-	display: inline;
+	display: block;
 	margin: 15px 0 5px 0;
 	align-content: center;
 }
