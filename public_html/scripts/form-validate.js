@@ -34,7 +34,7 @@ $(document).ready(function(){
 			},
 			message: {
 				required: true,
-				maxlength: 2000
+				maxlength: 1000
 			}
 		},
 
