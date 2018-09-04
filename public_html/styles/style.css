@@ -19,14 +19,28 @@ label {
 	align-content: center;
 }
 
-@media (min-width: 576px) {
+@media only screen
+and (min-width: 300px)
+and (max-width: 500px) {
 	.carousel {
-		font-size: 1rem;
+		font-size: 5px;
 	}
 	.carouselHeading {
-		font-size: 1rem;
+		font-size: 5px;
 	}
 }
+
+@media only screen
+and (min-width: 500px)
+and (max-width: 800px) {
+	.carousel {
+		font-size: 20px;
+	}
+	.carouselHeading {
+		font-size: 20px;
+	}
+}
+
 
 input, textarea {
 	width: 90%;
