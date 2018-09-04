@@ -53,8 +53,4 @@ and (max-width : 500px) {
 	.carousel-caption {
 		font-size: .5em;
 	}
-
-	.carousel {
-		font-size: .5em;
-	}
 }
