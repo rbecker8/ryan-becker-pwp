@@ -19,11 +19,6 @@ label {
 	align-content: center;
 }
 
-#carousel2 {
-	height: 30%;
-	width: 30%
-}
-
 input, textarea {
 	width: 90%;
 	padding: 8px;
