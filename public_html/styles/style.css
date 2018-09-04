@@ -19,6 +19,16 @@ label {
 	align-content: center;
 }
 
+@media screen and (min-width: 768px) {
+	.carousel {
+		font-size: 1rem;
+	}
+	.carouselHeading {
+		font-size: 1rem;
+	}
+
+}
+
 input, textarea {
 	width: 90%;
 	padding: 8px;
