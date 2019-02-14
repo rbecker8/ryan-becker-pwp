@@ -53,10 +53,20 @@ footer {
 
 @media only screen
 and (min-width : 100px)
-and (max-width : 500px) {
+and (max-width : 300px) {
 
 	.carousel-caption {
 		font-size: .5em;
 		padding-top: 20px;
+	}
+
+	.carousel-inner{
+	// height: 200px;
+	}
+
+	.item, img{
+		height: 100% !important;
+		width:  100% !important;
+		border: 1px solid red;
 	}
 }
